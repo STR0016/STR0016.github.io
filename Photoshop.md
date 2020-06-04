@@ -149,14 +149,14 @@ body,td,th {
   <!-- end .sidebar1 --></div>
   <div class="content">
     <h1>Photoshop Images</h1>
-    <img src="Resources/Photoshop/Straightening an Image.png" width="640" height="480" alt=""/>    <!-- end .content --></div>
-  <img src="Resources/Photoshop/soft focus.png" width="640" height="480" alt=""/>
-	<img src="Resources/Photoshop/Removal of Blemish.png" alt=""/>
-  <img src="Resources/Photoshop/Red Eye Removal.png" width="220" height="257" alt=""/>
-  <img src="Resources/Photoshop/Lightening a Photo.png" width="640" height="480" alt=""/>
-	<img src="Resources/Photoshop/Darkening a Photo.png" width="640" height="480" alt=""/>
-  <img src="Resources/Photoshop/Dark Forest.png" width="800" height="600" alt=""/>
-  <img src="Resources/Photoshop/Black and White Photo to Colour.png" width="640" height="480" alt=""/>
+    <img src="Photoshop/Straightening an Image.png" width="640" height="480" alt=""/>    <!-- end .content --></div>
+  <img src="Photoshop/soft focus.png" width="640" height="480" alt=""/>
+	<img src="Photoshop/Removal of Blemish.png" alt=""/>
+  <img src="Photoshop/Red Eye Removal.png" width="220" height="257" alt=""/>
+  <img src="Photoshop/Lightening a Photo.png" width="640" height="480" alt=""/>
+	<img src="Photoshop/Darkening a Photo.png" width="640" height="480" alt=""/>
+  <img src="Photoshop/Dark Forest.png" width="800" height="600" alt=""/>
+  <img src="Photoshop/Black and White Photo to Colour.png" width="640" height="480" alt=""/>
 <div class="footer">
     <!-- end .footer --></div>
 <!-- end .container --></div>
