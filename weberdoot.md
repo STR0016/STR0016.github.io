@@ -140,9 +140,9 @@ body,td,th {
     <ul class="nav">
       <li><a href="Photoshop.html"><strong>Photoshop</strong></a></li>
 		<li><a href="DVD.html"><strong>DVD Cover</strong></a></li>
-      <li><a href="Audacity.md"><strong>Audacity</strong></a></li>
-      <li><a href="Restaurant.md">Restaurant Menu</a></li>
-      <li><a href="Video.md">Video Projects</a></li>
+      <li><a href="Audacity.html"><strong>Audacity</strong></a></li>
+      <li><a href="Restaurant.html">Restaurant Menu</a></li>
+      <li><a href="Video.html">Video Projects</a></li>
     </ul>
     <p>&nbsp;</p>
   <!-- end .sidebar1 --></div>
