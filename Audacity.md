@@ -151,15 +151,15 @@ body,td,th {
     <h1>Audacity Works</h1>
 	   <h2>Car Track</h2>
     <audio controls>
-	   <source src="Resources/Audoot/Folio 1.wav" type="audio/wav">
+	   <source src="Audoot/Folio 1.wav" type="audio/wav">
 	   </audio>
 	   <h2>Music Track</h2>
 	   <audio controls>
-	   <source src="Resources/Audoot/Folio 2.wav" type="audio/wav">
+	   <source src="Audoot/Folio 2.wav" type="audio/wav">
 	   </audio>
 	   <h2>Ocean Track</h2>
 		<audio controls>
-	   <source src="Resources/Audoot/Folio 3.wav" type="audio/wav">
+	   <source src="Audoot/Folio 3.wav" type="audio/wav">
 	   </audio>   
   <!-- end .content --></div>
   <div class="footer">
