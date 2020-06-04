@@ -138,7 +138,7 @@ body,td,th {
     <!-- end .header --></div>
   <div class="sidebar1">
     <ul class="nav">
-      <li><a href="Photoshop.md"><strong>Photoshop</strong></a></li>
+      <li><a href="Photoshop.html"><strong>Photoshop</strong></a></li>
 		<li><a href="DVD.html"><strong>DVD Cover</strong></a></li>
       <li><a href="Audacity.md"><strong>Audacity</strong></a></li>
       <li><a href="Restaurant.md">Restaurant Menu</a></li>
