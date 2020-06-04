@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Folio 3_data" version="1.3.0" audacityversion="2.3.3" sel0="32.8927120000" sel1="42.3664534966" vpos="0" h="16.2752571429" zoom="119.8137751609" rate="8000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="ocean surf" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="8000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="116848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808196.au" len="116848" min="-0.875" max="0.8125" rms="0.150581"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="14.60600000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="116848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808196.au" len="116848" min="-0.875" max="0.8125" rms="0.150581"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="29.21200000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="116848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808196.au" len="116848" min="-0.875" max="0.8125" rms="0.150581"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ocean02" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="1.36045351" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f49.au" len="208896" min="-0.462799" max="0.528751" rms="0.062261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="17.26011886" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f49.au" len="208896" min="-0.462799" max="0.528751" rms="0.062261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="32.89271200" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f49.au" len="208896" min="-0.462799" max="0.528751" rms="0.062261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ocean02" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="1.0" colorindex="0">
+		<waveclip offset="1.36045351" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e080857c.au" len="208896" min="-0.494089" max="0.597163" rms="0.057622"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="17.26011886" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e080857c.au" len="208896" min="-0.494089" max="0.597163" rms="0.057622"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="32.89271200" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="208896">
+				<waveblock start="0">
+					<simpleblockfile filename="e080857c.au" len="208896" min="-0.494089" max="0.597163" rms="0.057622"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
