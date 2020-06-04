@@ -139,11 +139,11 @@ body,td,th {
     <!-- end .header --></div>
   <div class="sidebar1">
     <ul class="nav">
-      <li><a href="webersite.md"><strong>Home</strong></a></li>
-		<li><a href="Photoshop.md"><strong>Photoshop</strong></a></li>
-      <li><a href="Audacity.md"><strong>Audacity</strong></a></li>
-      <li><a href="Restaurant.md">Restaurant Menu</a></li>
-      <li><a href="Video.md">Video Project</a></li>
+      <li><a href="webersite.html"><strong>Home</strong></a></li>
+		<li><a href="Photoshop.html"><strong>Photoshop</strong></a></li>
+      <li><a href="Audacity.html"><strong>Audacity</strong></a></li>
+      <li><a href="Restaurant.html">Restaurant Menu</a></li>
+      <li><a href="Video.html">Video Project</a></li>
     </ul>
     <p>&nbsp;</p>
   <!-- end .sidebar1 --></div>
