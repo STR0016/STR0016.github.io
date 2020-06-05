@@ -149,7 +149,7 @@ body,td,th {
   <!-- end .sidebar1 --></div>
    <div class="content">
     <h1>Energy Matters DVD Cover</h1>
-    <img src="Resources/DVD/DVD Cover.png" width="640" height="480" alt=""/>
+    <img src="DVD/DVD Cover.png" width="640" height="480" alt=""/>
     <!-- end .content --></div>
   <div class="footer">
     <!-- end .footer --></div>
