@@ -149,8 +149,8 @@ body,td,th {
   <!-- end .sidebar1 --></div>
    <div class="content">
     <h1>Revamped Restaurant Menu</h1>
-    <img src="Resources/Menu/Revamped Menu.png"  alt=""/>
-	   <img src="Resources/Menu/Revamped Menu 2.png" alt=""/>
+    <img src="Menu/Revamped Menu.png"  alt=""/>
+	   <img src="Menu/Revamped Menu 2.png" alt=""/>
     <!-- end .content --></div>
   <div class="footer">
     <!-- end .footer --></div>
